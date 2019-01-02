@@ -1,0 +1,81 @@
+apiVersion: v1
+entries:
+  yopass:
+  - created: 2019-01-02T13:37:22.693759-05:00
+    digest: 01d4607e7c0e91d4edcb3766e1f60db633d6c22618590aeff25cb256ce9d7fce
+    engine: gotpl
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: jason@barefootcoders.com
+      name: Jason Berlinsky
+    name: yopass
+    urls:
+    - yopass-1.0.0.tgz
+    version: 1.0.0
+  - created: 2019-01-02T13:37:22.693266-05:00
+    digest: df9d3f8dc71583090f3bc4d21bf5d4f4dee447e79740d00f4359826fac2b47a6
+    engine: gotpl
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: jason@barefootcoders.com
+      name: Jason Berlinsky
+    name: yopass
+    urls:
+    - yopass-0.0.6.tgz
+    version: 0.0.6
+  - created: 2019-01-02T13:37:22.692984-05:00
+    digest: 32241378a1177db8c3e39c7a0d9e01be8f794f13d6c4af09cd9c44b66d3c9e11
+    engine: gotpl
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: jason@barefootcoders.com
+      name: Jason Berlinsky
+    name: yopass
+    urls:
+    - yopass-0.0.5.tgz
+    version: 0.0.5
+  - created: 2019-01-02T13:37:22.692461-05:00
+    digest: 62434c95450943e81258ce023a43f0df821fe031eafca1f1dfa75b153eccd6b8
+    engine: gotpl
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: jason@barefootcoders.com
+      name: Jason Berlinsky
+    name: yopass
+    urls:
+    - yopass-0.0.4.tgz
+    version: 0.0.4
+  - created: 2019-01-02T13:37:22.691958-05:00
+    digest: fe33c77886fd3be21e9b87db35ee67fc8c70bdd099914cc8b1f75597f88e8982
+    engine: gotpl
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: jason@barefootcoders.com
+      name: Jason Berlinsky
+    name: yopass
+    urls:
+    - yopass-0.0.3.tgz
+    version: 0.0.3
+  - created: 2019-01-02T13:37:22.69144-05:00
+    digest: b528878c34fdfecd6ccce669df91abf86f4b5360d4e4caef5a119677a1d3aea0
+    engine: gotpl
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: jason@barefootcoders.com
+      name: Jason Berlinsky
+    name: yopass
+    urls:
+    - yopass-0.0.2.tgz
+    version: 0.0.2
+  - created: 2019-01-02T13:37:22.690914-05:00
+    digest: 9bca23a8033d33f3bb3bd7b1ba239e725a69f7b69950c5d627cff1bc4aace080
+    engine: gotpl
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: jason@barefootcoders.com
+      name: Jason Berlinsky
+    name: yopass
+    urls:
+    - yopass-0.0.1.tgz
+    version: 0.0.1
+generated: 2019-01-02T13:37:22.689877-05:00
